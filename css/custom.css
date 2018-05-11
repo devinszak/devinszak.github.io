@@ -1,0 +1,15 @@
+.skills_ul {
+	text-align: center;
+    overflow: hidden;
+    font-size: 45px;
+}
+
+@media only screen and (min-width: 768px) {
+	.skills_li {
+		float: left;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+}
+
+.popup-modal a.popup-modal-dismiss { margin-left: 0px; }
