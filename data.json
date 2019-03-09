@@ -5,5 +5,12 @@
 		  "lat": 43.6425662,
 		  "lon": -79.3870568,
 		  "wait_time": 5
-	  }
+    },
+    {
+		  "name": "Wendy's",
+		  "address": "150 University Avenue, Waterloo",
+		  "lat": 43.6425662,
+		  "lon": -79.3870568,
+		  "wait_time": 2
+    }
 ]
